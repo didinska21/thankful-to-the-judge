@@ -16,3 +16,11 @@ node main.ts
 ```
 
 No network, no build step, no dependencies — Node 22 or later.
+
+## The entry
+
+The text is 303 characters, deliberately short: on equal rates the smaller
+text places first, and nothing in it could be cut without losing something.
+It shows gratitude instead of stating it — a cleared table, a cup with its
+handle turned toward the reader, and the heel of the loaf, the part usually
+kept, left beside it.
